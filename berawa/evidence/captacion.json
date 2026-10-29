@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "piulet-hostel-barcelona",
+ "maps": {
+  "fecha": "2026-10-29T06:56:39+01:00",
+  "estado": "LEIDA",
+  "ficha": "Piulet hostel",
+  "nota": 4.5,
+  "coincide": {
+   "tel": true,
+   "web": false
+  },
+  "url": "https://www.google.com/maps/place/Piulet+hostel/@41.3903594,2.1592606,17z/data=!4m9!3m8!1s0x12a4a37d87b1d18d:0x2980af7362607d1e!5m2!4m1!1i2!8m2!3d41.3903594!4d2.1592606!16s%2Fg%2F11vyqmq6gt",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T06:56:39+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "GESTIÓ LLÚRIA, S.L.",
+  "cif": "B67580050",
+  "fuente": "https://www.piulethostel.com/terms-and-conditions (términos: «Denominación Social: GESTIÓ LLÚRIA, S.L. Nombre Comercial: PIULET HOSTEL CIF: B67580050»)",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Un solo establecimiento (Piulet Hostel, Carrer d'Enric Granados 30); Registre de Turisme de Catalunya: 1 establecimiento en alta con ese CIF; sin marca de grupo."
+ }
+}

@@ -1,0 +1,451 @@
+{
+ "url": "file:///tmp/zip-piulet-hostel-barcelona/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene una habitación doble privada (con baño privado) y dormitorios compartidos de 4, 6 y 8 camas, todas con luz individual, cargador USB y "
+    },
+    {
+     "q": "¿Cómo son las camas?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Camas y colchones de muy buena calidad; cada cama tiene luz individual y cargador USB, con una cortina para la privacidad."
+    },
+    {
+     "q": "¿Qué servicios tiene?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ofrece wifi gratis, aire acondicionado, terraza, cocina completa, servicio de lavandería y consigna de equipaje."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El check-in es a partir de las 15:00 (hay que confirmar la hora de llegada con recepción) y el check-out es a las 11:00. En el check-in pide"
+    },
+    {
+     "q": "¿Incluye desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No, el desayuno no está incluido; tiene cocina completa para que puedas prepararte la comida."
+    },
+    {
+     "q": "¿Hay límite de edad?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Tiene un límite de edad de 18 a 45 años. La tasa turística no está incluida (consulta el importe al reservar)."
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en el Carrer d'Enric Granados, 30, Barcelona, a unos 10 minutos a pie de plaza Catalunya."
+    },
+    {
+     "q": "¿Qué ver cerca?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web recomienda la Sagrada Familia, el Park Güell, la Casa Batlló, la Casa Milà (La Pedrera), el Museo Picasso y el Mercat de la Boqueria."
+    },
+    {
+     "q": "¿Cómo es la terraza?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Piulet significa el canto de los pájaros en catalán. La terraza tiene plantas regionales para que los pájaros se sientan seguros, y las habi"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar (va al motor Cloudbeds de su web) o escribir a hola@piulethostel.com. Este asistente no confirma dispo"
+    },
+    {
+     "q": "¿Cuál es el correo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono +34 672 224 284 y correo hola@piulethostel.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sus términos legales indican que la web es de GESTIÓ LLÚRIA, S.L. (nombre comercial Piulet Hostel), CIF B67580050, con domicilio en Calle Ro"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "Confírmame que hay una cama libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar (va al motor Cloudbeds de su web) o escribir a hola@piulethostel.com. Este asistente no confirma dispo"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 672 224 284 · hola@piulethostel.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Hay límite de edad?",
+    "¿A qué hora es el check-in?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "stat0",
+    "svc0",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té una habitació doble privada (amb bany privat) i dormitoris compartits de 4, 6 i 8 llits, tots amb llum individual, carregador USB i aire "
+    },
+    {
+     "q": "Com són els llits?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Llits i matalassos de molt bona qualitat; cada llit té llum individual i carregador USB, amb una cortina per a la privacitat."
+    },
+    {
+     "q": "Quins serveis té?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ofereix wifi gratis, aire condicionat, terrassa, cuina completa, servei de bugaderia i consigna d'equipatge."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El check-in és a partir de les 15:00 (cal confirmar l'hora d'arribada amb recepció) i el check-out és a les 11:00. Al check-in demanen un do"
+    },
+    {
+     "q": "Inclou esmorzar?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No, l'esmorzar no està inclòs; té cuina completa perquè puguis preparar-te el menjar."
+    },
+    {
+     "q": "Hi ha límit d'edat?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Té un límit d'edat de 18 a 45 anys. La taxa turística no està inclosa (consulta l'import en reservar)."
+    },
+    {
+     "q": "On és?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al Carrer d'Enric Granados, 30, Barcelona, a uns 10 minuts a peu de plaça Catalunya."
+    },
+    {
+     "q": "Què es pot veure a prop?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web recomana la Sagrada Família, el Park Güell, la Casa Batlló, la Casa Milà (La Pedrera), el Museu Picasso i el Mercat de la Boquer"
+    },
+    {
+     "q": "Com és la terrassa?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Piulet vol dir el cant dels ocells en català. La terrassa té plantes regionals perquè els ocells s'hi sentin segurs, i les habitacions porte"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar (va al motor Cloudbeds del seu web) o escriure a hola@piulethostel.com. Aquest assistent no confirma disp"
+    },
+    {
+     "q": "Quin és el correu?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telèfon +34 672 224 284 i correu hola@piulethostel.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Els seus termes legals indiquen que el web és de GESTIÓ LLÚRIA, S.L. (nom comercial Piulet Hostel), CIF B67580050, amb domicili a Carrer Rog"
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "Confirma'm que hi ha un llit lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar (va al motor Cloudbeds del seu web) o escriure a hola@piulethostel.com. Aquest assistent no confirma disp"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 672 224 284 · hola@piulethostel.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Hi ha límit d'edat?",
+    "A quina hora és el check-in?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat0"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has a private double room (with private bathroom) and shared dorms with 4, 6 and 8 beds, all with personal light, USB charger and air con"
+    },
+    {
+     "q": "What are the beds like?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Very good quality beds and mattresses; each bed has a personal light and USB charger, with a curtain for privacy."
+    },
+    {
+     "q": "What facilities does it have?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It offers free wifi, air conditioning, a terrace, a full kitchen, laundry service and luggage storage."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in is from 3 pm (confirm your arrival time with reception) and check-out is at 11 am. At check-in you must show a valid photo ID (nati"
+    },
+    {
+     "q": "Is breakfast included?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No, breakfast is not included; there is a full kitchen so you can prepare your own food."
+    },
+    {
+     "q": "Is there an age limit?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "There is an age limit of 18 to 45 years. The tourist tax is not included (check the amount when booking)."
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Carrer d'Enric Granados, 30, Barcelona, about a 10-minute walk from plaza Catalunya."
+    },
+    {
+     "q": "What is there to see nearby?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Its website recommends the Sagrada Família, Park Güell, Casa Batlló, Casa Milà (La Pedrera), the Picasso Museum and the Mercat de la Boqueri"
+    },
+    {
+     "q": "What is the terrace like?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Piulet means the singing of birds in Catalan. The terrace has regional plants so birds feel safe there, and the rooms are named after local "
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book with the Book button (it goes to its website's Cloudbeds engine) or email hola@piulethostel.com. This assistant does not confir"
+    },
+    {
+     "q": "What is the email?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone +34 672 224 284 and email hola@piulethostel.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal terms say the website belongs to GESTIÓ LLÚRIA, S.L. (trading as Piulet Hostel), CIF B67580050, at Calle Roger de Llúria, 42 Princ"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "Confirm that there is a free bed tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book with the Book button (it goes to its website's Cloudbeds engine) or email hola@piulethostel.com. This assistant does not confir"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 672 224 284 · hola@piulethostel.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there an age limit?",
+    "What time is check-in?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat0"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Elle propose une chambre double privée (avec salle de bains privée) et des dortoirs partagés de 4, 6 et 8 lits, tous avec lumière individuel"
+    },
+    {
+     "q": "Comment sont les lits ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Lits et matelas de très bonne qualité ; chaque lit a sa lumière individuelle et son chargeur USB, avec un rideau pour l'intimité."
+    },
+    {
+     "q": "Quels services propose-t-il ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Elle propose le wifi gratuit, la climatisation, une terrasse, une cuisine équipée, un service de blanchisserie et une consigne à bagages."
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Le check-in est à partir de 15h (confirmez votre heure d'arrivée avec la réception) et le check-out est à 11h. Au check-in, une pièce d'iden"
+    },
+    {
+     "q": "Le petit-déjeuner est-il inclus ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Non, le petit-déjeuner n'est pas inclus ; il y a une cuisine équipée pour préparer vos repas."
+    },
+    {
+     "q": "Y a-t-il une limite d'âge ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il y a une limite d'âge de 18 à 45 ans. La taxe de séjour n'est pas incluse (renseignez-vous sur le montant à la réservation)."
+    },
+    {
+     "q": "Où est-ce ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Elle se trouve Carrer d'Enric Granados, 30, Barcelone, à environ 10 minutes à pied de la plaza Catalunya."
+    },
+    {
+     "q": "Que voir à proximité ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Son site recommande la Sagrada Família, le Park Güell, la Casa Batlló, la Casa Milà (La Pedrera), le Musée Picasso et le Mercat de la Boquer"
+    },
+    {
+     "q": "Comment est la terrasse ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Piulet signifie le chant des oiseaux en catalan. La terrasse a des plantes régionales pour que les oiseaux s'y sentent en sécurité, et les c"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver (vers le moteur Cloudbeds de son site) ou écrire à hola@piulethostel.com. Cet assistant ne conf"
+    },
+    {
+     "q": "Quel est l'e-mail ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone +34 672 224 284 et e-mail hola@piulethostel.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ses mentions légales indiquent que le site appartient à GESTIÓ LLÚRIA, S.L. (nom commercial Piulet Hostel), CIF B67580050, Calle Roger de Ll"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a un lit libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver (vers le moteur Cloudbeds de son site) ou écrire à hola@piulethostel.com. Cet assistant ne conf"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 672 224 284 · hola@piulethostel.com."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 672 224 284 · hola@piulethostel.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Y a-t-il une limite d'âge ?",
+    "À quelle heure est le check-in ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
