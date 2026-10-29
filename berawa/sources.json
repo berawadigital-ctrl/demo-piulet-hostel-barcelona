@@ -1,0 +1,38 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.piulethostel.com/",
+ "read_at": "2026-10-29T08:05:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.piulethostel.com/",
+   "sha256": "54094f3aac4a60bdabfb8eb7ddbca06abfa9366eef1c5be5bd5ed0059dc33f6e",
+   "chars": 3180
+  },
+  {
+   "url": "https://www.piulethostel.com/about",
+   "sha256": "fdef1215fdb03bebf2b98d36630585662767681f82ab94ae51d7f33f71208f18",
+   "chars": 2882
+  },
+  {
+   "url": "https://www.piulethostel.com/activities",
+   "sha256": "6300157829b4fae33b3628a1c40cc308307a143a49f66f17b975026bf4fd1932",
+   "chars": 2898
+  },
+  {
+   "url": "https://www.piulethostel.com/rooms",
+   "sha256": "19e85f3965d165a09d228e992d7368d0ff1c9f912a90d105a1896b752ea2f457",
+   "chars": 884
+  },
+  {
+   "url": "https://www.piulethostel.com/terms-and-conditions",
+   "sha256": "bd887f53a68df6a145d59310fdf053611de8ea1db9ff0dead78acd9df1f25320",
+   "chars": 18910
+  }
+ ],
+ "other_pages_read": [
+  "https://www.piulethostel.com/book-now",
+  "https://www.piulethostel.com/contact",
+  "https://www.piulethostel.com/privacy"
+ ]
+}

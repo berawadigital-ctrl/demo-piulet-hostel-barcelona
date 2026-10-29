@@ -1,0 +1,618 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-piulet-hostel-barcelona",
+ "source_site": "https://www.piulethostel.com/",
+ "source_read_at": "2026-10-29T08:05:00+01:00",
+ "note": "Respuestas solo con datos publicados en piulethostel.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "doble",
+     "dormitorio",
+     "cama"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio",
+     "doble",
+     "dormitori",
+     "llit"
+    ],
+    "en": [
+     "what rooms",
+     "room types",
+     "double",
+     "dorm",
+     "bed"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "double",
+     "dortoir",
+     "lit"
+    ]
+   },
+   "a": {
+    "es": "Tiene una habitación doble privada (con baño privado) y dormitorios compartidos de 4, 6 y 8 camas, todas con luz individual, cargador USB y aire acondicionado.",
+    "ca": "Té una habitació doble privada (amb bany privat) i dormitoris compartits de 4, 6 i 8 llits, tots amb llum individual, carregador USB i aire condicionat.",
+    "en": "It has a private double room (with private bathroom) and shared dorms with 4, 6 and 8 beds, all with personal light, USB charger and air conditioning.",
+    "fr": "Elle propose une chambre double privée (avec salle de bains privée) et des dortoirs partagés de 4, 6 et 8 lits, tous avec lumière individuelle, chargeur USB et climatisation."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/rooms",
+     "quote": "Double Private room WIFi Private Bathroom 220v Air Condition"
+    },
+    {
+     "url": "https://www.piulethostel.com/rooms",
+     "quote": "8 Bed Dorm WIFi Individual light USB Charger Air Condition"
+    },
+    {
+     "url": "https://www.piulethostel.com/rooms",
+     "quote": "6 Bed Dorm WIFi Individual light USB Charger Air Condition"
+    },
+    {
+     "url": "https://www.piulethostel.com/rooms",
+     "quote": "4 Bed Dorm WIFi Individual light USB Charger Air Condition"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "camas",
+   "keys": {
+    "es": [
+     "como son las camas",
+     "colchon",
+     "luz individual",
+     "cortina",
+     "cargador"
+    ],
+    "ca": [
+     "com son els llits",
+     "matalas",
+     "llum individual",
+     "cortina",
+     "carregador"
+    ],
+    "en": [
+     "what are the beds",
+     "mattress",
+     "personal light",
+     "curtain",
+     "charger"
+    ],
+    "fr": [
+     "comment sont les lits",
+     "matelas",
+     "lumiere individuelle",
+     "rideau",
+     "chargeur"
+    ]
+   },
+   "a": {
+    "es": "Camas y colchones de muy buena calidad; cada cama tiene luz individual y cargador USB, con una cortina para la privacidad.",
+    "ca": "Llits i matalassos de molt bona qualitat; cada llit té llum individual i carregador USB, amb una cortina per a la privacitat.",
+    "en": "Very good quality beds and mattresses; each bed has a personal light and USB charger, with a curtain for privacy.",
+    "fr": "Lits et matelas de très bonne qualité ; chaque lit a sa lumière individuelle et son chargeur USB, avec un rideau pour l'intimité."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "The hostel has beds and mattresses of very good quality, so the guests can rest very well."
+    },
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "All beds are equipped with personal light, and a usb charger. With a curtain to keep the privacy."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "servicios",
+   "keys": {
+    "es": [
+     "servicios",
+     "wifi",
+     "cocina",
+     "lavanderia",
+     "equipaje"
+    ],
+    "ca": [
+     "serveis",
+     "wifi",
+     "cuina",
+     "bugaderia",
+     "equipatge"
+    ],
+    "en": [
+     "facilities",
+     "wifi",
+     "kitchen",
+     "laundry",
+     "luggage"
+    ],
+    "fr": [
+     "services",
+     "wifi",
+     "cuisine",
+     "blanchisserie",
+     "bagages"
+    ]
+   },
+   "a": {
+    "es": "Ofrece wifi gratis, aire acondicionado, terraza, cocina completa, servicio de lavandería y consigna de equipaje.",
+    "ca": "Ofereix wifi gratis, aire condicionat, terrassa, cuina completa, servei de bugaderia i consigna d'equipatge.",
+    "en": "It offers free wifi, air conditioning, a terrace, a full kitchen, laundry service and luggage storage.",
+    "fr": "Elle propose le wifi gratuit, la climatisation, une terrasse, une cuisine équipée, un service de blanchisserie et une consigne à bagages."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Free WIFi Terrace Perfect location Air Conditioning Luggage storage"
+    },
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Full Kitchen Laundry Service"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "check-in",
+   "keys": {
+    "es": [
+     "check in",
+     "check-in",
+     "entrada",
+     "salida",
+     "check out",
+     "documento"
+    ],
+    "ca": [
+     "check in",
+     "entrada",
+     "sortida",
+     "check out",
+     "document"
+    ],
+    "en": [
+     "check in",
+     "check-in",
+     "check out",
+     "arrival",
+     "document"
+    ],
+    "fr": [
+     "check in",
+     "arrivee",
+     "depart",
+     "check out",
+     "document"
+    ]
+   },
+   "a": {
+    "es": "El check-in es a partir de las 15:00 (hay que confirmar la hora de llegada con recepción) y el check-out es a las 11:00. En el check-in piden un documento de identidad válido con foto (DNI o pasaporte). El equipo de recepción está disponible de 9:00 a 23:00.",
+    "ca": "El check-in és a partir de les 15:00 (cal confirmar l'hora d'arribada amb recepció) i el check-out és a les 11:00. Al check-in demanen un document d'identitat vàlid amb foto (DNI o passaport). L'equip de recepció és disponible de 9:00 a 23:00.",
+    "en": "Check-in is from 3 pm (confirm your arrival time with reception) and check-out is at 11 am. At check-in you must show a valid photo ID (national ID or passport). The reception team is available from 9am to 11pm.",
+    "fr": "Le check-in est à partir de 15h (confirmez votre heure d'arrivée avec la réception) et le check-out est à 11h. Au check-in, une pièce d'identité valide avec photo (carte d'identité ou passeport) est demandée. L'équipe d'accueil est disponible de 9h à 23h."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Check-in is from 3 pm. Confirm your arrival time with reception. Check out at 11 am."
+    },
+    {
+     "url": "https://www.piulethostel.com/terms-and-conditions",
+     "quote": "Durante el check-in, se requerirá a todos los huéspedes presentar un documento de identidad válido y con fotografía (DNI o pasaporte)."
+    },
+    {
+     "url": "https://www.piulethostel.com/",
+     "quote": "Our reservation and front desk team are available daily from 9am till 11pm."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "incluye",
+     "comer"
+    ],
+    "ca": [
+     "esmorzar",
+     "inclou",
+     "menjar"
+    ],
+    "en": [
+     "breakfast",
+     "included",
+     "eat"
+    ],
+    "fr": [
+     "petit dejeuner",
+     "inclus",
+     "manger"
+    ]
+   },
+   "a": {
+    "es": "No, el desayuno no está incluido; tiene cocina completa para que puedas prepararte la comida.",
+    "ca": "No, l'esmorzar no està inclòs; té cuina completa perquè puguis preparar-te el menjar.",
+    "en": "No, breakfast is not included; there is a full kitchen so you can prepare your own food.",
+    "fr": "Non, le petit-déjeuner n'est pas inclus ; il y a une cuisine équipée pour préparer vos repas."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Breakfast not included."
+    },
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Full Kitchen"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "edad y tasa",
+   "keys": {
+    "es": [
+     "edad",
+     "limite de edad",
+     "tasa turistica",
+     "menores"
+    ],
+    "ca": [
+     "edat",
+     "limit d edat",
+     "taxa turistica",
+     "menors"
+    ],
+    "en": [
+     "age",
+     "age limit",
+     "tourist tax",
+     "minors"
+    ],
+    "fr": [
+     "age",
+     "limite d age",
+     "taxe de sejour",
+     "mineurs"
+    ]
+   },
+   "a": {
+    "es": "Tiene un límite de edad de 18 a 45 años. La tasa turística no está incluida (consulta el importe al reservar).",
+    "ca": "Té un límit d'edat de 18 a 45 anys. La taxa turística no està inclosa (consulta l'import en reservar).",
+    "en": "There is an age limit of 18 to 45 years. The tourist tax is not included (check the amount when booking).",
+    "fr": "Il y a une limite d'âge de 18 à 45 ans. La taxe de séjour n'est pas incluse (renseignez-vous sur le montant à la réservation)."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Age limit: We have an age limit of 18 to 45 years."
+    },
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Tourist tax not included"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "eixample"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "eixample"
+    ],
+    "en": [
+     "where",
+     "address",
+     "eixample"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "eixample"
+    ]
+   },
+   "a": {
+    "es": "Está en el Carrer d'Enric Granados, 30, Barcelona, a unos 10 minutos a pie de plaza Catalunya.",
+    "ca": "És al Carrer d'Enric Granados, 30, Barcelona, a uns 10 minuts a peu de plaça Catalunya.",
+    "en": "It is at Carrer d'Enric Granados, 30, Barcelona, about a 10-minute walk from plaza Catalunya.",
+    "fr": "Elle se trouve Carrer d'Enric Granados, 30, Barcelone, à environ 10 minutes à pied de la plaza Catalunya."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/",
+     "quote": "Carrer d'Enric Granados, 30, Barcelona, Spain."
+    },
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Very close to plaza Catalunya (10 min by walk)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "entorno",
+   "keys": {
+    "es": [
+     "que ver",
+     "sagrada familia",
+     "park guell",
+     "museo",
+     "picasso"
+    ],
+    "ca": [
+     "que es pot veure",
+     "sagrada familia",
+     "park guell",
+     "museu",
+     "picasso"
+    ],
+    "en": [
+     "to see",
+     "sagrada familia",
+     "park guell",
+     "museum",
+     "picasso"
+    ],
+    "fr": [
+     "voir",
+     "sagrada familia",
+     "park guell",
+     "musee",
+     "picasso"
+    ]
+   },
+   "a": {
+    "es": "Su web recomienda la Sagrada Familia, el Park Güell, la Casa Batlló, la Casa Milà (La Pedrera), el Museo Picasso y el Mercat de la Boqueria.",
+    "ca": "La seva web recomana la Sagrada Família, el Park Güell, la Casa Batlló, la Casa Milà (La Pedrera), el Museu Picasso i el Mercat de la Boqueria.",
+    "en": "Its website recommends the Sagrada Família, Park Güell, Casa Batlló, Casa Milà (La Pedrera), the Picasso Museum and the Mercat de la Boqueria.",
+    "fr": "Son site recommande la Sagrada Família, le Park Güell, la Casa Batlló, la Casa Milà (La Pedrera), le Musée Picasso et le Mercat de la Boqueria."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/activities",
+     "quote": "The best-known place of interest in Barcelona is, of course, the Sagrada Familia"
+    },
+    {
+     "url": "https://www.piulethostel.com/activities",
+     "quote": "Park güell"
+    },
+    {
+     "url": "https://www.piulethostel.com/activities",
+     "quote": "Casa Batlló"
+    },
+    {
+     "url": "https://www.piulethostel.com/activities",
+     "quote": "Casa Milà (La Pedrera)"
+    },
+    {
+     "url": "https://www.piulethostel.com/activities",
+     "quote": "Picasso Museum"
+    },
+    {
+     "url": "https://www.piulethostel.com/activities",
+     "quote": "Mercat de la Boqueria"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "terraza y estilo",
+   "keys": {
+    "es": [
+     "terraza",
+     "pajaros",
+     "plantas",
+     "nombre piulet"
+    ],
+    "ca": [
+     "terrassa",
+     "ocells",
+     "plantes",
+     "nom piulet"
+    ],
+    "en": [
+     "terrace",
+     "birds",
+     "plants",
+     "name piulet"
+    ],
+    "fr": [
+     "terrasse",
+     "oiseaux",
+     "plantes",
+     "nom piulet"
+    ]
+   },
+   "a": {
+    "es": "Piulet significa el canto de los pájaros en catalán. La terraza tiene plantas regionales para que los pájaros se sientan seguros, y las habitaciones llevan nombres de aves locales.",
+    "ca": "Piulet vol dir el cant dels ocells en català. La terrassa té plantes regionals perquè els ocells s'hi sentin segurs, i les habitacions porten noms d'ocells locals.",
+    "en": "Piulet means the singing of birds in Catalan. The terrace has regional plants so birds feel safe there, and the rooms are named after local birds.",
+    "fr": "Piulet signifie le chant des oiseaux en catalan. La terrasse a des plantes régionales pour que les oiseaux s'y sentent en sécurité, et les chambres portent des noms d'oiseaux locaux."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "Our name, Piulet, means twitter in catalan, the singing of birds. Our rooms have different local bird names."
+    },
+    {
+     "url": "https://www.piulethostel.com/about",
+     "quote": "We have a terrace with a lot of different and regional plants, so we can create a space for birds to feel safe."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar con el botón Reservar (va al motor Cloudbeds de su web) o escribir a hola@piulethostel.com. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar amb el botó Reservar (va al motor Cloudbeds del seu web) o escriure a hola@piulethostel.com. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book with the Book button (it goes to its website's Cloudbeds engine) or email hola@piulethostel.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver avec le bouton Réserver (vers le moteur Cloudbeds de son site) ou écrire à hola@piulethostel.com. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/",
+     "quote": "Book online on our website to get the best price"
+    },
+    {
+     "url": "https://www.piulethostel.com/",
+     "quote": "Powered by Cloudbeds"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "e mail",
+     "email",
+     "courriel",
+     "contact"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 672 224 284 y correo hola@piulethostel.com.",
+    "ca": "Telèfon +34 672 224 284 i correu hola@piulethostel.com.",
+    "en": "Phone +34 672 224 284 and email hola@piulethostel.com.",
+    "fr": "Téléphone +34 672 224 284 et e-mail hola@piulethostel.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/",
+     "quote": "+34 672 224 284"
+    },
+    {
+     "url": "https://www.piulethostel.com/",
+     "quote": "hola@piulethostel.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Sus términos legales indican que la web es de GESTIÓ LLÚRIA, S.L. (nombre comercial Piulet Hostel), CIF B67580050, con domicilio en Calle Roger de Llúria, 42 Principal, 08009 Barcelona.",
+    "ca": "Els seus termes legals indiquen que el web és de GESTIÓ LLÚRIA, S.L. (nom comercial Piulet Hostel), CIF B67580050, amb domicili a Carrer Roger de Llúria, 42 Principal, 08009 Barcelona.",
+    "en": "Its legal terms say the website belongs to GESTIÓ LLÚRIA, S.L. (trading as Piulet Hostel), CIF B67580050, at Calle Roger de Llúria, 42 Principal, 08009 Barcelona.",
+    "fr": "Ses mentions légales indiquent que le site appartient à GESTIÓ LLÚRIA, S.L. (nom commercial Piulet Hostel), CIF B67580050, Calle Roger de Llúria, 42 Principal, 08009 Barcelone."
+   },
+   "sources": [
+    {
+     "url": "https://www.piulethostel.com/terms-and-conditions",
+     "quote": "Denominación Social: GESTIÓ LLÚRIA, S.L. Nombre Comercial: PIULET HOSTEL CIF: B67580050 Domicilio Social: Calle Roger de Llúria, 42 Principal, 08009 Barcelona, España"
+    },
+    {
+     "url": "https://www.piulethostel.com/terms-and-conditions",
+     "quote": "Registro Mercantil: Inscrita en el Registro Mercantil de Barcelona, Tomo 47232, Folio 98, Sección 8, Hoja B-545497"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
